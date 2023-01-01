@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.background{
+    background-color: #243763;
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+
+#player-turn-text{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.hide{
+    display: none;
+}
+
+.board{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+    max-width: 300px;
+}
+
+.cell {
+    border: 1px solid white;
+    min-width: 100px;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+#restart{
+    background-color: #850000;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.controls{
+    text-align: center;
+}
+
+#winning-text{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
