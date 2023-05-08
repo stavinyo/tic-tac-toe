@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
 
 The game board is empty, ready to start a new game.
@@ -13,5 +13,5 @@ Player O has chosen a slot and now it is player X's turn
 ![Turn O](screenShots/turnO.png)
 
 Game Over - Player X's is the winner!
-for restart press restart
+For restart press restart
 ![Game OVER](screenShots/game-over.png)
