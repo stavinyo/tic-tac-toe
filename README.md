@@ -3,6 +3,6 @@
 
 Start Game - the turn belong to X player
 
-![screenShots/start-game.png](url)
-![screenShots/turnO.png](url)
-![screenShots/turnX.png](url)
+![Turn X](screenShots/start-game.png)
+![Turn O](screenShots/turnO.png)
+![Game OVER](screenShots/turnX.png)
